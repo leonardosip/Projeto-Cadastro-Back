@@ -1,0 +1,1 @@
+module.exports = require('./../../../common/exportAllMethods')(__dirname)
